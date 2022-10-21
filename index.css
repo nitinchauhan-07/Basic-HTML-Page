@@ -1,0 +1,32 @@
+body{
+    margin-top: 52px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.para{
+    color: #858585;
+}
+
+.div1{
+    border: 1px solid #EDEDED;
+    /* height: 1055px; */
+    height: auto;
+    width: auto;
+    background-color: #F8F8F8;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+
+.div2{
+    border: 1px solid #D8D8D8;
+    height: auto;
+    width: auto;
+    border-radius: 15px;
+    padding-top: 8px;
+}
+
+.bold{
+    color: black;
+}
+
